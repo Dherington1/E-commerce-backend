@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "Object-Relational Mapping (ORM) Challenge: E-commerce Back End",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/fantastic-umbrella.git"
+  },
+  "author": "Duncan Herington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/fantastic-umbrella/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/fantastic-umbrella#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2",
+    "sequelize": "^6.9.0"
+  }
+}
