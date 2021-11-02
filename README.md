@@ -2,7 +2,7 @@
 ![mit](https://img.shields.io/badge/license-MIT%20License-red)
       
   ## Description
-  it allows a company look at their employees
+  Backend of an E-commerce store to  organize products. With this application you can view, create, edit and delete your inventory.
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -12,7 +12,7 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation Instructions 
-  you will need inquire, sql and npm installed
+  you will need npm, express, mysql, dotenv, and sequalize installed
   ## Usage Instructions
   run this application in the terminal
   ## License
@@ -20,7 +20,7 @@
   ## Contributing Members
   N/A
   ## Testing 
-  need to run index.js in terminal
+  need to run 'node server.js' in terminal
   ## demo
   https://www.youtube.com/watch?v=MjYXMnaqIb8
   ## Questions/Inquiries 
